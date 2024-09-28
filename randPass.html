@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Crearing Web</title>
+    <link rel="stylesheet" href="randPass.css">
+</head>
+<body>
+    <!-- main box of prject-->
+    <div class="container">
+        <h1>Generate  <I>A</I><br><span>Random password</span></h1>
+        <!--display box for display password and copy button-->
+        <div class="display">
+            <input type="text" id="password" placeholder="password">
+            <img src="icons-randomPassword/icons8-copy-96 (2).png" onclick="copyPassword()">
+        </div>
+        <!--generate password button-->
+        <button onclick="createPassword()"><img src="icons-randomPassword/icons8-thunder-100 (1).png">Generate Password</button>
+    </div>
+    <script src="randPass.js"></script>
+</body>
+</html>
