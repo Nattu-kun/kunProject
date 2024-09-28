@@ -1,2 +1,1 @@
-# kunProject { Hi My name is saurabh das and i am a IT student righ now . you can see my code in this link or github web } 🧑🏽‍💻
-# Project details : first name of file define the work or the code of the project ⌨️
+Hi, I’m Nattu (Saurabh), a web developer with a passion for creating modern, responsive websites and web applications. I specialize in front-end development using the latest technologies and always aim to build user-friendly and performant solutions.
