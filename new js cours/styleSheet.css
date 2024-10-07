@@ -1,0 +1,28 @@
+/* .dark {
+  background-color: black;
+  color: white;
+}
+
+.light {
+  background-color: white;
+  column-rule: black;
+} */
+
+#over {
+  height: 250px;
+  width:  250px;
+  border-radius: 50%;
+  background-image: url("https://blog.japanwondertravel.com/wp-content/uploads/2021/09/2.-Oouo-Shrine.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+
+.up{
+  background-color: 	#ff6700;
+
+}
+
+.down{
+  background-color: black;
+}
